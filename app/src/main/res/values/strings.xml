@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GB Whats</string>
+
+    <string name="appSDK_applovin">2v0xTN4L_l61weWtBZmKCcnN8TMHR_aOLd-9eloGHcuiSy863FucdJkz8Grfyf1r7mMXDqdKmtxxB695-acfE4</string>
+    <string name="bannerID_applovin">aced1b2a8d134e90</string>
+    <string name="intersID_applovin">5c58a4df1e634b63</string>
+
+
+    <string name="help">Help</string>
+    <string name="click_to_open">Click to open\nWhatsApp or WA Business</string>
+    <string name="recent_status">Recent Status</string>
+    <string name="downloaded_status">Downloaded Status</string>
+    <string name="whatsapp_cleaner">Whatsapp Cleaner</string>
+    <string name="rate_us">Rate</string>
+    <string name="share">Share</string>
+    <string name="privacy">Privacy</string>
+    <string name="more_app">More App</string>
+    <string name="gifs">GIFs</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="document">Document</string>
+    <string name="audio">Audio</string>
+    <string name="voice">Voice</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="delete_items_blank">Delete Selected Items (0B)</string>
+    <string name="there_apos_s_nothing_here">There\'s nothing here!</string>
+    <string name="how_to_use">Help</string>
+
+    <!--steps-->
+    <string name="step_1">Step 1</string>
+    <string name="first_step">Tap on \"Click to open\" icon.</string>
+    <string name="step_2">Step 2</string>
+    <string name="second_step">Click to open Whatsapp or WA Business button.</string>
+    <string name="step_3">Step 3</string>
+    <string name="step_three">First you have to see Status from Whatsapp or WA Business.</string>
+    <string name="step_4">Step 4</string>
+    <string name="step_four">Once you seen status in Whatsapp or WA Business then open this application Your seen status will be here in this app and from here you can Download and Share.</string>
+
+    <string name="wa_business_ncleaner">WA Business Cleaner</string>
+    <string name="mode">Mode</string>
+
+
+    <!--    FACEBOOK ADS-->
+    <!--<string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_native">YOUR_PLACEMENT_ID</string>-->
+
+    <!--  Admob Ads  -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_native_id">ca-app-pub-3940256099942544/2247696110</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_text">Normal</string>
+</resources>

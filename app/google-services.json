@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783033654982",
+    "project_id": "gbweb-dbe6e",
+    "storage_bucket": "gbweb-dbe6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783033654982:android:87e25b143b41b3df9381c7",
+        "android_client_info": {
+          "package_name": "com.gbwapp.whatsweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783033654982-lo0tetjd82bkq0fpa365pblaq2fn5nak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OyX7UKrNQWUD1UAQDWUI6P_bP1MLjr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783033654982-lo0tetjd82bkq0fpa365pblaq2fn5nak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
